@@ -1,0 +1,2 @@
+kucoin-python
+python-dotenv
